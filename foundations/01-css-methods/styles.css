@@ -1,6 +1,7 @@
 /* styles.css */
 
-div { font-size: 32px;
+div { 
+    font-size: 32px;
     background-color: red;
     font-weight: bold;
     color: white;
